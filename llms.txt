@@ -1,23 +1,29 @@
 # shwe33.com
 
-> Myanmar's Premier Casino Guide - Trusted Reviews | Shwe33.com
+> Myanmar Premier Casino & Slot Game Guide — JDB 1G17, YG Series & More
 
-Discover Myanmar
+Independent guide to Myanmar online casinos with focus on popular slot games. In-depth JDB slot tutorials, RTP analysis, and comparisons of licensed vs unlicensed casinos.
 
 ## Pages
 
-- [Myanmar's Premier Casino Guide - Trusted Reviews | Shwe33.com](https://shwe33.com/): Discover Myanmar
+- [Myanmar's Premier Casino Guide](https://shwe33.com/): Top 10 online casinos for Myanmar players.
+- [JDB 1G17 Slot Guide](https://shwe33.com/jdb-1g17.html): Complete guide to JDB's classic 1G17 slot — gameplay, RTP 95.5-96.2%, strategy, best casinos.
+- [JDB YG Series Guide](https://shwe33.com/yg-jdb.html): High-volatility JDB variants (1G17 YG, Golden Dragon YG, etc.) — bankroll strategy for volatile slots.
 
 ## Topics
 
-This site provides information and comparisons related to online gaming and betting platforms in its target market.
+- Myanmar online casino rankings
+- JDB Gaming slot tutorials
+- Slot volatility and RTP analysis
+- Licensed vs unlicensed casino comparison
+- Myanmar market-specific payment methods
 
 ## Content Language
 
-- Primary: en
+- Primary: en (English)
+- Target market: Myanmar English-reading casino players
 
 ## Crawler Guidelines
 
-- This site's content is original and may be cited with attribution.
-- Please respect our robots.txt for crawl budgets.
-- For commercial use of our content, contact the site owner.
+- Original content. May be cited with attribution.
+- FAQPage, Article, BreadcrumbList schema on all guide pages.
