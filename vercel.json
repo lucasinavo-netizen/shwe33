@@ -1,9 +1,12 @@
 {
-  "redirects": [
+  "rewrites": [
     {
       "source": "/go/s3",
-      "destination": "https://www.mm38aa.com/m/home?affiliateCode=lu0001",
-      "permanent": false
+      "destination": "/api/go?to=rr95"
+    },
+    {
+      "source": "/go/s32",
+      "destination": "/api/go?to=mm38"
     }
   ],
   "headers": [
