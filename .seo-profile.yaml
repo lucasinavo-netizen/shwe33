@@ -28,25 +28,26 @@ ga4:
 target_market: Myanmar (MM)
 target_language: my-MM
 target_keywords:
-  primary: ["shwe33", "myanmar casino"]
-  secondary: []
-position: "Shwe33 — Myanmar gambling network"
+  primary: ["shwe33", "myanmar casino", "online casino myanmar"]
+  secondary: ["JDB Myanmar", "Myanmar slot", "KBZPay casino", "WavePay casino"]
+position: "Shwe33 — Myanmar casino and slot selection guide"
 
 # Affiliate
-affiliate_cloak_path: /go/s33
-affiliate_destination: https://www.mm38aa.com/m/home?affiliateCode=lu0001
+affiliate_cloak_path: /go/s3
+affiliate_cloak_paths: ["/go/s3", "/go/s32"]
+affiliate_destination: https://www.rr95k.com/?ch=0cf28df51e
 
 # Current State (auto-updated by sk-tech / sk-content)
 current_state:
-  body_words: 5000
-  h2_count: 4
-  h3_count: 10
+  body_words: 1520
+  h2_count: 7
+  h3_count: 11
   sitemap_urls: 1
   indexed_pages_90d: 1
   clicks_90d: 1
   impressions_90d: 31
-  last_full_audit: 2026-06-17
-  last_content_update: 2026-06-18
+  last_full_audit: 2026-06-25
+  last_content_update: 2026-06-25
   last_visual_screenshot: /tmp/all-sites-visual/shwe33.com.png
 
 # Known Issues
@@ -61,4 +62,4 @@ pending_decisions: []
 
 # Site-Specific Notes
 notes:
-  - "8 H3 brand names appear fictional (EmeraldElephant Casino etc) — flagged 2026-06-16, awaiting user decision."
+  - "2026-06-25: Removed fictional casino-brand list and rebuilt homepage around Myanmar casino selection criteria, JDB/slot/live casino comparison, KBZPay/WavePay notes, red flags, and responsible play."
